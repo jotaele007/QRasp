@@ -1,6 +1,7 @@
 # Android RASP SDK
 
 Lightweight Runtime Application Self-Protection SDK for Android.
+Developed by JL
 
 ## Features
 - Debugger detection
@@ -15,4 +16,6 @@ Rasp.check(this, RaspConfig(killAppOnThreat = true))
 ```
 
 ## Disclaimer
-Defensive use only.
+Use under your own risk.
+
+JLQ
